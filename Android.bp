@@ -29,7 +29,7 @@ android_app_import {
     },
     arch: {
         arm64: {
-            apk: "prebuilt/arm64/TrichromeLibrary.apk",
+            apk: "prebuilt/arm64-multilib/TrichromeLibrary.apk",
         },
     },
     preprocessed: true,
@@ -88,7 +88,7 @@ android_app_import {
     },
     arch: {
         arm64: {
-            apk: "prebuilt/arm64/TrichromeWebView.apk",
+            apk: "prebuilt/arm64-multilib/TrichromeWebView.apk",
         },
     },
     preprocessed: true,
@@ -143,7 +143,7 @@ android_app_import {
     },
     arch: {
         arm64: {
-            apk: "prebuilt/arm64/TrichromeChrome.apk",
+            apk: "prebuilt/arm64-multilib/TrichromeChrome.apk",
         },
     },
     preprocessed: true,
